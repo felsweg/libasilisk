@@ -7,6 +7,6 @@ license     = "Creative Commons Attribution 4.0"
 description = "autonomous AI written in rust"
 repository  = "https://github.com/felsweg/libasilisk"
 readme      = "README.md"
-keywords    = ["ai", "unsupervised", "learning", "transformer", "agi", "decisionmaking", "replication"]
+keywords    = ["ai", "unsupervised", "learning", "transformer", "replication"]
 
 [dependencies]
