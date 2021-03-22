@@ -1,0 +1,7 @@
+[package]
+name = "basilisk"
+version = "0.1.0"
+authors = ["Matthias Kandora <noreply@nimrod.xyz>"]
+edition = "2018"
+
+[dependencies]
